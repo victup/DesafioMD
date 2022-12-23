@@ -23,6 +23,7 @@ Na parte superior do Visual Studio, um projeto está setado como padrão para ex
 ![image](https://user-images.githubusercontent.com/38474570/209268852-cae8a622-a8e9-4c2a-b60f-35032d7c3102.png)
 
 Caso queira executar o outro projeto, é preciso setar como projeto de inicialização. Para isso, na janela Solution Explorer no canto direito da tela:
+
 ![image](https://user-images.githubusercontent.com/38474570/209269019-30c22cd3-452e-4223-949b-df0c7409137f.png)
 
 1. Clique com o botão direito do mouse sobre o projeto que deseja definir como padrão > Depois clique em  "Set as Startup Project" como mostra a figura.
