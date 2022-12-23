@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangulo", "Triangulo\Triangulo.csproj", "{C9086753-05E4-415B-93BC-00605FF2B803}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concessionaria", "Concessionaria\Concessionaria.csproj", "{6E4F3BA9-7995-4742-9649-B5F30897A9D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9086753-05E4-415B-93BC-00605FF2B803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9086753-05E4-415B-93BC-00605FF2B803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9086753-05E4-415B-93BC-00605FF2B803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9086753-05E4-415B-93BC-00605FF2B803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E4F3BA9-7995-4742-9649-B5F30897A9D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E4F3BA9-7995-4742-9649-B5F30897A9D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E4F3BA9-7995-4742-9649-B5F30897A9D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E4F3BA9-7995-4742-9649-B5F30897A9D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2C69A73-6A2E-4EFC-9808-097EC6A66061}
+	EndGlobalSection
+EndGlobal
