@@ -40,10 +40,3 @@ Caso queira executar o outro projeto, é preciso setar como projeto de inicializ
 #### Triângulos
 Criar um procedimento que solicite que sejam informados três valores X, Y, Z, verifique se estes valores podem ser os comprimentos dos lados de um triângulo e se forem escrever uma mensagem informando se é um triângulo equilátero, isósceles ou escaleno. (As linguagens que podem ser utilizadas são:  Visual Basic, Pascal, Delphi, Java, C# - informar a linguagem utilizada)
 
-#### Resultado
-![image](https://user-images.githubusercontent.com/38474570/209268596-cf523d47-8d6e-4e0b-9522-09070f7b4043.png)
-
-#### Carros (Concessionária)
-
-![image](https://user-images.githubusercontent.com/38474570/209269376-938bc8e8-d5a5-4161-98eb-009080da8866.png)
-
